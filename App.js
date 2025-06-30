@@ -1,6 +1,6 @@
 import React from "react";
-import StatePractice from "./src/screens/StatePractice";
+import Counter from "./src/screens/counter";
 
 export default function App() {
-  return <StatePractice />;
+  return <Counter />;
 }
