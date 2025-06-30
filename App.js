@@ -1,6 +1,6 @@
 import React from "react";
-import Counter from "./src/screens/counter";
+import Listing from "./src/screens/Listing";
 
 export default function App() {
-  return <Counter />;
+  return <Listing />;
 }
