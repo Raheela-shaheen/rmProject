@@ -1,7 +1,6 @@
-import Login from "./src/screens/login";
+import React from "react";
+import StatePractice from "./src/screens/StatePractice";
 
-export default function Login() {
-  return 
-         <Login/>;
+export default function App() {
+  return <StatePractice />;
 }
-
