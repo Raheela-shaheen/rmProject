@@ -1,6 +1,6 @@
-import React from "react";
-import Listing from "./src/screens/Listing";
+import React from 'react';
+import WhatsappStatus from './src/screens/WhatsappStatus';
 
 export default function App() {
-  return <iconcounter />;
+  return <WhatsappStatus />;
 }
